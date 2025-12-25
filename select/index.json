@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "ROYAL",
+  "base_artist": "IVE",
+  "createdAt": "2025-12-25T14:30:27.318278Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ring of Fire (with The Royal Philharmonic Orchestra)",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/01_Ring_of_Fire_(with_The_Royal_Philharmonic_Orchestra)_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Königlich Royal",
+      "artist": "Deichkind",
+      "has_synced": true,
+      "path": "select/02_Königlich_Royal_Deichkind.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Royal Orleans",
+      "artist": "Led Zeppelin",
+      "has_synced": true,
+      "path": "select/03_Royal_Orleans_Led_Zeppelin.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Royal Orleans - Reference Mix",
+      "artist": "Led Zeppelin",
+      "has_synced": false,
+      "path": "select/04_Royal_Orleans_-_Reference_Mix_Led_Zeppelin.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Royal Orleans (Reference Mix)",
+      "artist": "Led Zeppelin",
+      "has_synced": false,
+      "path": "select/05_Royal_Orleans_(Reference_Mix)_Led_Zeppelin.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Royal Oats (Radial Remix)",
+      "artist": "Emil & Friends",
+      "has_synced": true,
+      "path": "select/06_Royal_Oats_(Radial_Remix)_Emil_&_Friends.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "A Hundred Wishes (Live at the Royal Albert Hall)",
+      "artist": "Loreena McKennitt",
+      "has_synced": true,
+      "path": "select/07_A_Hundred_Wishes_(Live_at_the_Royal_Albert_Hall)_Loreena_McKennitt.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ages Past, Ages Hence (Live at the Royal Albert Hall)",
+      "artist": "Loreena McKennitt",
+      "has_synced": true,
+      "path": "select/08_Ages_Past,_Ages_Hence_(Live_at_the_Royal_Albert_Hall)_Loreena_McKennitt.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "All Souls Night (Live at the Royal Albert Hall)",
+      "artist": "Loreena McKennitt",
+      "has_synced": true,
+      "path": "select/09_All_Souls_Night_(Live_at_the_Royal_Albert_Hall)_Loreena_McKennitt.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "As I Roved Out (Live at the Royal Albert Hall)",
+      "artist": "Loreena McKennitt",
+      "has_synced": true,
+      "path": "select/10_As_I_Roved_Out_(Live_at_the_Royal_Albert_Hall)_Loreena_McKennitt.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bonny Portmore (Live at the Royal Albert Hall)",
+      "artist": "Loreena McKennitt",
+      "has_synced": true,
+      "path": "select/11_Bonny_Portmore_(Live_at_the_Royal_Albert_Hall)_Loreena_McKennitt.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dante's Prayer (Live at the Royal Albert Hall)",
+      "artist": "Loreena McKennitt",
+      "has_synced": true,
+      "path": "select/12_Dante's_Prayer_(Live_at_the_Royal_Albert_Hall)_Loreena_McKennitt.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Lost Souls (Live at the Royal Albert Hall)",
+      "artist": "Loreena McKennitt",
+      "has_synced": true,
+      "path": "select/13_Lost_Souls_(Live_at_the_Royal_Albert_Hall)_Loreena_McKennitt.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Once In Royal David's City",
+      "artist": "The Chieftains feat. The Renaissance Singers & David Drinkel",
+      "has_synced": true,
+      "path": "select/14_Once_In_Royal_David's_City_The_Chieftains_feat._The_Renaissance_Singers_&_David_Drinkel.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Spanish Guitars and Night Plazas (Live at the Royal Albert Hall)",
+      "artist": "Loreena McKennitt",
+      "has_synced": true,
+      "path": "select/15_Spanish_Guitars_and_Night_Plazas_(Live_at_the_Royal_Albert_Hall)_Loreena_McKennitt.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ROYAL",
+      "artist": "IVE",
+      "has_synced": false,
+      "path": "select/pl_01_ROYAL_IVE.txt"
+    }
+  ]
+}
